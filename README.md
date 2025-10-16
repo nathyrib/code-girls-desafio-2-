@@ -10,6 +10,7 @@ Simulação de um fluxo automatizado que analisa sentimentos em comentários de 
 —
 
 ##🎯 Objetivo 
+
 Criar um workflow que receba um comentário, analise o sentimento com Amazon Comprehend, decida o que fazer com base no resultado e registre tudo em um banco de dados. Se o sentimento for negativo, o sistema envia um alerta para a equipe de suporte.
 
 —
@@ -27,9 +28,9 @@ O cliente comenta: “O atendimento não me agradou, muito demorado.” O sistem
 
 —
 
-##📁 Diagrama do Workflow 
+##📁 Diagrama do Workflow
 
-![diagrama de fluxo](imagem/diagrama-de-fluxo.png)
+![diagrama de fluxo](diagrama-de-fluxo.png)
 
 —
 

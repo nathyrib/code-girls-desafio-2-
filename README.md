@@ -29,8 +29,6 @@ O cliente comenta: “O atendimento não me agradou, muito demorado.” O sistem
 
 ##📁 Diagrama do Workflow 
 
-diagrama-de-fluxo.png
-
 —
 
 ##☁️ Serviços AWS envolvidos
